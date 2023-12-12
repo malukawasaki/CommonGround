@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T13:23:40.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="kic5tqB8G5ViGfJ_iJQh" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T14:08:02.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="O3Pe8kbE4CC0UrPAjAsM" version="22.1.7" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="3169" dy="2718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4150" dy="3168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XrivS-1WhvhdIYvPr3YK-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1447" y="-1011" width="2587" height="1370" as="geometry" />
+          <mxGeometry x="-1447" y="-968" width="2587" height="1409" as="geometry" />
         </mxCell>
         <mxCell id="0FXop1k1lJmk01pZkUKz-18" value="&lt;p style=&quot;border-color: var(--border-color); text-decoration-line: underline; margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Urban Water Infiltration&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;name = waterInfiltration&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;scaleNeighborhood = 1&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;scaleCity = 1&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;scaleRegion = 0&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;adaptation = waterlogging&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;source = klimaateffectatlas&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-293" y="-663" width="160" height="127" as="geometry" />
@@ -412,17 +412,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrivS-1WhvhdIYvPr3YK-131" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Standards&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: str&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ name: str&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-131" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Standards&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: str&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ name: str&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ organization: str&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-805" y="32" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XrivS-1WhvhdIYvPr3YK-132" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;I3S&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = dataSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 3DTiles&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-132" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;I3S&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = dataSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 3Dtiles&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization = OGC&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-561" y="-77" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XrivS-1WhvhdIYvPr3YK-133" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;3D Tiles&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = dataSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 3DTiles&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-133" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;3D Tiles&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = dataSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 3Dtiles&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization = OGC&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-561" y="32" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XrivS-1WhvhdIYvPr3YK-135" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;CityGML&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = dataSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 3DTiles&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-564" y="141" width="160" height="90" as="geometry" />
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-135" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;CityGML&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = dataSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 3Dtiles&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization = OGC&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-561" y="141" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XrivS-1WhvhdIYvPr3YK-139" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XrivS-1WhvhdIYvPr3YK-132" target="XrivS-1WhvhdIYvPr3YK-131">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -456,6 +456,28 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-284" y="114" as="sourcePoint" />
             <mxPoint x="-124" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-145" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Leidraad 2.0&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = designSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = leidraad2&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization =&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="-285" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-146" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;CityJSON&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = OGC&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = cityjson&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization = OGC&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-561" y="250" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-147" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XrivS-1WhvhdIYvPr3YK-146" target="XrivS-1WhvhdIYvPr3YK-131">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-820" y="339" as="sourcePoint" />
+            <mxPoint x="-660" y="339" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-602" y="295" />
+              <mxPoint x="-602" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-148" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XrivS-1WhvhdIYvPr3YK-131" target="XrivS-1WhvhdIYvPr3YK-145">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-920" y="-123" as="sourcePoint" />
+            <mxPoint x="-760" y="-123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
