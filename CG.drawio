@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T14:08:02.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="O3Pe8kbE4CC0UrPAjAsM" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T14:34:26.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="abz3oV7w6gS0p6Tb6GWN" version="22.1.7" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="4150" dy="3168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3640" dy="2934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrivS-1WhvhdIYvPr3YK-145" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Leidraad 2.0&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = designSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = leidraad2&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization =&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1069" y="-285" width="160" height="90" as="geometry" />
+          <mxGeometry x="-1039" y="-285" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XrivS-1WhvhdIYvPr3YK-146" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;CityJSON&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = OGC&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = cityjson&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization = OGC&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-561" y="250" width="160" height="90" as="geometry" />
@@ -478,6 +478,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-920" y="-123" as="sourcePoint" />
             <mxPoint x="-760" y="-123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-149" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;REALCOOL&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;type = designSt&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = realcool&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;organization = climatelier&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-862" y="-285" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XrivS-1WhvhdIYvPr3YK-150" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XrivS-1WhvhdIYvPr3YK-149" target="XrivS-1WhvhdIYvPr3YK-97">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-763" y="-360" as="sourcePoint" />
+            <mxPoint x="-603" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
