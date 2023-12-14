@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T11:10:25.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="fy0TsMz7WNoRc0cvi6ix" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T11:55:22.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="UPJBQxtWXX9q_DPkW_Ol" version="22.1.8" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="3877" dy="2727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6536" dy="4036" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -633,8 +633,8 @@
         <mxCell id="4yrR79o98_Yk7ZibqLWb-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Rain Sports Field&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = rainSportsField&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleNeighborhood = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleCity = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleRegion = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = waterlogging&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;source = leidaard 2.0&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-909" y="-515" width="160" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="4yrR79o98_Yk7ZibqLWb-25" value="Ask Ulf:&lt;br&gt;Are the scales for the design projects correct?" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="-2210" y="-638" width="180" height="90" as="geometry" />
+        <mxCell id="4yrR79o98_Yk7ZibqLWb-25" value="Ask Ulf:&lt;br&gt;Are the scales for the design projects correct?&lt;br&gt;Should I explain each one of them in the thesis or is just mentioning them enough?" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="-1873" y="-929" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4yrR79o98_Yk7ZibqLWb-26" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="4yrR79o98_Yk7ZibqLWb-25">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -686,6 +686,22 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-741" y="-738" as="sourcePoint" />
             <mxPoint x="-782" y="-852" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yrR79o98_Yk7ZibqLWb-37" value="Ask Peter:&lt;br&gt;Is the UML diagram correct?" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="-1873" y="-821" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4yrR79o98_Yk7ZibqLWb-38" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="4yrR79o98_Yk7ZibqLWb-37">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yrR79o98_Yk7ZibqLWb-39" value="Ask both:&lt;br&gt;Create a database with design interventions? (RELATIONAL DATABASE)" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="-1873" y="-712" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4yrR79o98_Yk7ZibqLWb-40" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="4yrR79o98_Yk7ZibqLWb-39">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
