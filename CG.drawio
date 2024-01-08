@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T18:51:00.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hqiBX_KxfEMSH0jjK3up" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T13:14:29.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KEZI5pFVl3846fZxiBsl" version="22.1.15" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="6800" dy="3524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5491" dy="2475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1697,8 +1697,130 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XL4-3dp0tsTEwj-AfAvo-72" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;V1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = V1&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;area = Utrecht&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;properties = soil type, groundwater level, storage capacity&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-72" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;V1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = V1&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;area = Utrecht&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;properties = soil type, geomechanics&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1343" y="79.5" width="207" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-73" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Flood Barrier&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = floodBarrier&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleNeighborhood = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleCity = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleRegion = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;source = leidaard 2.0&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1277" y="-474" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-74" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Flood Protection&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = floodProtection&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleNeighborhood = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleCity = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleRegion = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;source = leidaard2.0&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#F7F7F7;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-975" width="160" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-75" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-73" target="XL4-3dp0tsTEwj-AfAvo-74">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1100" y="-504" as="sourcePoint" />
+            <mxPoint x="691" y="-815" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1357" y="-794" />
+              <mxPoint x="305" y="-794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-73" target="XL4-3dp0tsTEwj-AfAvo-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1392" y="-143" as="sourcePoint" />
+            <mxPoint x="1552" y="-143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-77" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Dry Proof Material&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = dryProofMaterial&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleNeighborhood = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleCity = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleRegion = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;source = leidaard 2.0&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-474" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-78" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-77" target="XL4-3dp0tsTEwj-AfAvo-74">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1293" y="-532" as="sourcePoint" />
+            <mxPoint x="696" y="-855" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="-794" />
+              <mxPoint x="305" y="-794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-79" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-77" target="XL4-3dp0tsTEwj-AfAvo-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1434" y="-209" as="sourcePoint" />
+            <mxPoint x="1594" y="-209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-80" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4yrR79o98_Yk7ZibqLWb-23" target="XL4-3dp0tsTEwj-AfAvo-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-2116" y="-273" as="sourcePoint" />
+            <mxPoint x="1110" y="4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-81" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Floating Building&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = floatingBuilding&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleNeighborhood = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleCity = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleRegion = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;source = leidaard 2.0&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1643" y="-474" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-82" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-81" target="XL4-3dp0tsTEwj-AfAvo-74">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="719" y="-960" as="sourcePoint" />
+            <mxPoint x="879" y="-960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1723" y="-793" />
+              <mxPoint x="305" y="-793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-83" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-81" target="XL4-3dp0tsTEwj-AfAvo-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1610" y="-34" as="sourcePoint" />
+            <mxPoint x="1770" y="-34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-84" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="lzSBGGlqFM9TEOrY7YJG-1" target="XL4-3dp0tsTEwj-AfAvo-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1093" y="-258" as="sourcePoint" />
+            <mxPoint x="1079" y="2" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1018" y="-9" />
+              <mxPoint x="1447" y="-9" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-85" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4yrR79o98_Yk7ZibqLWb-33" target="XL4-3dp0tsTEwj-AfAvo-72">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1612" y="-76" as="sourcePoint" />
+            <mxPoint x="1163" y="35" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1527" y="14" />
+              <mxPoint x="1447" y="14" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-86" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-73" target="XL4-3dp0tsTEwj-AfAvo-87">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1526" y="18" as="sourcePoint" />
+            <mxPoint x="1686" y="18" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1397" y="-163" />
+              <mxPoint x="1675" y="-163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-87" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;V2&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = V2&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;area = Utrecht&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;properties = soil type, geomechanics&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1571" y="79.5" width="207" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-88" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-81" target="XL4-3dp0tsTEwj-AfAvo-87">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1716" y="-27" as="sourcePoint" />
+            <mxPoint x="1876" y="-27" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1763" y="-162" />
+              <mxPoint x="1674" y="-162" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-89" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XL4-3dp0tsTEwj-AfAvo-77" target="XL4-3dp0tsTEwj-AfAvo-87">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1577" y="-198" as="sourcePoint" />
+            <mxPoint x="1737" y="-198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1580" y="-164" />
+              <mxPoint x="1675" y="-164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XL4-3dp0tsTEwj-AfAvo-90" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;V3&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = V3&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;area = Utrecht&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;properties = soil type, geomechanics&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="79.5" width="207" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
