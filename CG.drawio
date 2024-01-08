@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T18:07:23.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8Y7czHMQz5c9Fnmt2Iqm" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T18:08:21.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="0SamFQA17Q8apTSNd-as" version="22.1.15" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="9515" dy="4545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="24860" dy="12180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,9 +402,6 @@
         <mxCell id="4yrR79o98_Yk7ZibqLWb-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;N3&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = N3&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;area = Utrecht&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = waterlogging&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;properties = fresh water availablity, soil type, groundwater levels&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1586" y="345.5" width="207" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="4yrR79o98_Yk7ZibqLWb-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Freshwater availability&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ soiltype: str&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="3596" y="-1006.5" width="160" height="61" as="geometry" />
-        </mxCell>
         <mxCell id="4yrR79o98_Yk7ZibqLWb-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;N1&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;name = N1&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;area = Utrecht&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = waterlogging&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;properties = fresh water availablity, soil type, groundwater levels&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2032" y="345.5" width="207" height="123" as="geometry" />
         </mxCell>
@@ -754,7 +751,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GK7I_HUZ6tPGz8S25uy2-2" value="Question is reversed for TNO:&lt;br&gt;Which data is useful for urban planning?" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="-1025" y="888" width="180" height="90" as="geometry" />
+          <mxGeometry x="-4071" y="-977" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GK7I_HUZ6tPGz8S25uy2-3" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="GK7I_HUZ6tPGz8S25uy2-2" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -762,7 +759,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GK7I_HUZ6tPGz8S25uy2-4" value="Utrecht:&lt;br&gt;Which standards are they using?&lt;br&gt;(Digital twins) How to connect their models to ours if useful?" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="914" width="180" height="90" as="geometry" />
+          <mxGeometry x="-4071" y="-840.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lzSBGGlqFM9TEOrY7YJG-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Hollow Roads&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = hollowRoads&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleNeighborhood = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleCity = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;scaleRegion = 0&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;adaptation = waterlogging&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;source = leidaard 2.0&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;fillColor=#DBDBDB;" parent="1" vertex="1">
           <mxGeometry x="-1138" y="-474" width="160" height="134" as="geometry" />
@@ -1094,12 +1091,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="3440" y="-1186" as="sourcePoint" />
             <mxPoint x="3600" y="-1186" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lzSBGGlqFM9TEOrY7YJG-48" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="4yrR79o98_Yk7ZibqLWb-2" target="0FXop1k1lJmk01pZkUKz-21" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3569" y="-1213" as="sourcePoint" />
-            <mxPoint x="3729" y="-1213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lzSBGGlqFM9TEOrY7YJG-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#FF33FF;" parent="1" source="lzSBGGlqFM9TEOrY7YJG-10" target="4yrR79o98_Yk7ZibqLWb-1" edge="1">
