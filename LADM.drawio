@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:30:56.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="f93KhMqBJuglCz71p7mT" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:36:37.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="CUh5wCODcz8fDZrLnc4Z" version="24.4.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2622" dy="3563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2144" dy="3330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -388,6 +388,36 @@
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-123" value="&lt;div&gt;Requirement 7: Efficient and effective spatial plan information management system using this part of&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ISO 19152 LADM shall support permit registration and relating this to the relevant plan unit.&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.27;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2680" y="-840" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-124" value="SP_PlanGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3940" y="-900" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-126" value="SP_PlanBlock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3940" y="-980" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-139" value="SP_PlanBlock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4100" y="-980" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-145" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3940" y="-1020" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-147" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4020" y="-1020" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-148" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4100" y="-1020" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-149" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4180" y="-1020" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-150" value="SP_PlanGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4330" y="-1170" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-151" value="SP_PlanBlock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4330" y="-940" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-157" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4330" y="-820" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
