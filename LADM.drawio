@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T14:44:14.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="SgVe02G4lvUtSmNDgcEF" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T15:11:23.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="9ohz-V-vtfldF9teCZhc" version="24.4.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1666" dy="5435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="3097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -162,46 +162,46 @@
           <mxGeometry x="2480" y="-1080" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-124" value="SP_PlanGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1040" y="-3169" width="320" height="160" as="geometry" />
+          <mxGeometry x="910" y="-119" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-126" value="SP_PlanBlock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1040" y="-3249" width="160" height="80" as="geometry" />
+          <mxGeometry x="910" y="-199" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-139" value="SP_PlanBlock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1200" y="-3249" width="160" height="80" as="geometry" />
+          <mxGeometry x="1070" y="-199" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-145" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1040" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="910" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-147" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1120" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="990" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-148" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1200" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1070" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-149" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1280" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1150" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-150" value="SP_PlanGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="920" y="-2900" width="440" height="430" as="geometry" />
+          <mxGeometry x="790" y="150" width="440" height="430" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-151" value="SP_PlanBlock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="920" y="-2670" width="210" height="200" as="geometry" />
+          <mxGeometry x="790" y="380" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-157" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="920" y="-2550" width="90" height="80" as="geometry" />
+          <mxGeometry x="790" y="500" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-158" value="Masterplan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1540" y="-2900" width="440" height="430" as="geometry" />
+          <mxGeometry x="1410" y="150" width="440" height="430" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-159" value="Local Design Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1540" y="-2670" width="210" height="200" as="geometry" />
+          <mxGeometry x="1410" y="380" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-160" value="Intervention" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1540" y="-2550" width="90" height="80" as="geometry" />
+          <mxGeometry x="1410" y="500" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-0" value="CLIMA_Intervention (SP_PlanUnit)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCE9F;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3960" y="-3130" width="330" height="660" as="geometry">
+          <mxGeometry x="1346" y="1070" width="330" height="660" as="geometry">
             <mxRectangle x="1810" y="-860" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -215,10 +215,10 @@
           <mxGeometry y="78" width="330" height="582" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-4" value="&lt;div&gt;Additional information regarding subsurface properties and the main climate challenges&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.42;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3650" y="-2790" width="260" height="120" as="geometry" />
+          <mxGeometry x="1036" y="1410" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-6" value="CLIMA_LocalPlan (SP_PlanBlock)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCE9F;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3300" y="-3080" width="330" height="470" as="geometry">
+          <mxGeometry x="686" y="1120" width="330" height="470" as="geometry">
             <mxRectangle x="1810" y="-860" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -233,12 +233,12 @@
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-10" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.003;exitY=0.317;exitDx=0;exitDy=0;entryX=0.999;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8PfWSfrLphycb07iS4tt-3" target="8PfWSfrLphycb07iS4tt-9">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3647" y="-2620" as="sourcePoint" />
-            <mxPoint x="3465" y="-2760" as="targetPoint" />
+            <mxPoint x="1033" y="1580" as="sourcePoint" />
+            <mxPoint x="851" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-11" value="CLIMA_Masterplan (SP_PlanGroup)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCE9F;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3300" y="-3430" width="330" height="200" as="geometry">
+          <mxGeometry x="686" y="770" width="330" height="200" as="geometry">
             <mxRectangle x="1810" y="-860" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -252,16 +252,16 @@
           <mxGeometry y="78" width="330" height="122" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: start;&quot;&gt;Additional information regarding who is responsible for the main plan and its source&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3BRequirement%204%3A%20Spatial%20plan%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Binformation%20compliant%20with%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bthis%20part%20of%20LADM%20shall%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Borganize%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%26amp%3Bnbsp%3Bplan%20units%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B(plan%20zones)%20in%20plan%20block%2C%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcallout%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bperimeter%3DcalloutPerimeter%3Bposition2%3D0.73%3BfillColor%3D%23E6D0DE%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221510%22%20y%3D%22-1110%22%20width%3D%22260%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.69;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3007" y="-3390" width="260" height="120" as="geometry" />
+          <mxGeometry x="393" y="810" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-16" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.48;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8PfWSfrLphycb07iS4tt-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3457" y="-3080" as="sourcePoint" />
-            <mxPoint x="3457" y="-3230" as="targetPoint" />
+            <mxPoint x="843" y="1120" as="sourcePoint" />
+            <mxPoint x="843" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-17" value="SP_Permit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFF4C3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4370" y="-2880" width="330" height="230" as="geometry">
+          <mxGeometry x="1756" y="1320" width="330" height="230" as="geometry">
             <mxRectangle x="1810" y="-860" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -276,72 +276,72 @@
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-21" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.006;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8PfWSfrLphycb07iS4tt-3" target="8PfWSfrLphycb07iS4tt-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3607" y="-2420" as="sourcePoint" />
-            <mxPoint x="3767" y="-2420" as="targetPoint" />
+            <mxPoint x="993" y="1780" as="sourcePoint" />
+            <mxPoint x="1153" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Code List&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CLIMA_ClimateTheme&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Waterlogging&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Flood&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Drought&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Biodiversity&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Heat&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Mixed&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Unkown&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3050" y="-3210" width="210" height="160" as="geometry" />
+          <mxGeometry x="436" y="990" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Code List&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CLIMA_SoilType&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Sand&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Clay&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Peat&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Mixed&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Unknown&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3050" y="-3030" width="210" height="130" as="geometry" />
+          <mxGeometry x="436" y="1170" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Code List&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CLIMA_GroundWater&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Bellow0.7m&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Above0.7mBellow1m&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Above1m&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Mixed&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Unknown&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3050" y="-2740" width="210" height="130" as="geometry" />
+          <mxGeometry x="436" y="1460" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Code List&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CLIMA_SubCongestion&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ High&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Low&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Mixed&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Unknown&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3050" y="-2880" width="210" height="120" as="geometry" />
+          <mxGeometry x="436" y="1320" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Code List&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CLIMA_Geomechanics&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SuitableBuilding&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ NotSuitableBuilding&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Mixed&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Unknown&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3050" y="-2585" width="210" height="120" as="geometry" />
+          <mxGeometry x="436" y="1615" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Code List&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CLIMA_subInfoReq&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SoilType&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GroundWater&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SubCongestion&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Geomechanics&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4370" y="-2622" width="210" height="122" as="geometry" />
+          <mxGeometry x="1756" y="1578" width="210" height="122" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-30" value="&lt;div&gt;Additional information regarding subsurface information/resolution requirements. Additional Information on the depth required underground.&lt;/div&gt;&lt;div&gt;Additional information regarding relevant national and local guidelines&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.69;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3680" y="-2610" width="260" height="120" as="geometry" />
+          <mxGeometry x="1066" y="1590" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1380" y="-2685.5" as="sourcePoint" />
-            <mxPoint x="1500" y="-2685.5" as="targetPoint" />
+            <mxPoint x="1250" y="364.5" as="sourcePoint" />
+            <mxPoint x="1370" y="364.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-32" value="Masterplan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="-3169" width="320" height="160" as="geometry" />
+          <mxGeometry x="1410" y="-119" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-33" value="Local Design Plan 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="-3249" width="160" height="80" as="geometry" />
+          <mxGeometry x="1410" y="-199" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-34" value="Local Design Plan 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1700" y="-3249" width="160" height="80" as="geometry" />
+          <mxGeometry x="1570" y="-199" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-35" value="Intervention 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1410" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-36" value="Intervention 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1620" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1490" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-37" value="Intervention 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1700" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1570" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-38" value="Intervention 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1780" y="-3289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1650" y="-239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1380" y="-3159" as="sourcePoint" />
-            <mxPoint x="1500" y="-3159" as="targetPoint" />
+            <mxPoint x="1250" y="-109" as="sourcePoint" />
+            <mxPoint x="1370" y="-109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-40" value="&lt;b&gt;In the same way that in LADM A SP_PlanBlock follows the hierarchy of a PlanGroup and is composed of SP_PlanUnits, in climate adaptatiion design a local adaptation plan is composed of several adaptation interventions and &quot;follows&quot; a main masterplan&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1926" y="-3279" width="290" height="180" as="geometry" />
+          <mxGeometry x="1796" y="-229" width="290" height="180" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;LADM Part 5&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="-2250" width="580" height="390" as="geometry" />
         </mxCell>
         <mxCell id="8PfWSfrLphycb07iS4tt-42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Adaptation LADM Part 5 to Climate Adaptation Design&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="-3679" width="2270" height="390" as="geometry" />
+          <mxGeometry x="240" y="-570" width="2270" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
