@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T12:43:57.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JQ9Hrh_XbeFqazyW144q" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:00:40.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Pcv0ASEfd1OsBH1YdM88" version="24.4.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1666" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,8 +247,8 @@
         <mxCell id="cNv1dug2NwwHb0u0l6bS-68" value="SP_PlanUnit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1190" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cNv1dug2NwwHb0u0l6bS-69" value="SP_Permit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1350" y="-620" width="120" height="60" as="geometry" />
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-69" value="SP_Permit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1380" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cNv1dug2NwwHb0u0l6bS-70" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cNv1dug2NwwHb0u0l6bS-66" target="cNv1dug2NwwHb0u0l6bS-61">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -305,6 +305,40 @@
             <mxPoint x="840" y="-620" as="sourcePoint" />
             <mxPoint x="1000" y="-620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-85" value="SP_PlanUnit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCE9F;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1810" y="-860" width="270" height="520" as="geometry">
+            <mxRectangle x="1810" y="-860" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-86" value="+ puID: Oid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cNv1dug2NwwHb0u0l6bS-85">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-87" value="+ subFunctionName: CharacterString" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cNv1dug2NwwHb0u0l6bS-85">
+          <mxGeometry y="52" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-88" value="+ subFunctionType: SP_SubSpaceFunction&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;maxVolumeIndications:&amp;nbsp;LA_VolumeValue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;maxAreaIndications:&amp;nbsp;LA_AreaValue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;maxHeightIndications:&amp;nbsp;LA_LengthValue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;unitIndications:&amp;nbsp;Integer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;otherIndications:&amp;nbsp;CharacterString&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;typeOfBuildingIndications:&amp;nbsp;CharacterString&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;typeOfShapeIndications:&amp;nbsp;CharacterString&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;otherConstructionIndications:&amp;nbsp;CharacterString&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;referencePoint:&amp;nbsp;Point&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;surfaceRelation:&amp;nbsp;LA_SurfaceRelationType&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;currentArea:&amp;nbsp;LA_AreaValue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;currentVolume:&amp;nbsp;LA_VolumeValue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;featureProtected:&amp;nbsp;CharacterString&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;statusType:&amp;nbsp;SP_StatusType&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cNv1dug2NwwHb0u0l6bS-85">
+          <mxGeometry y="78" width="270" height="442" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-90" value="SP_PlanUnit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1810" y="-1140" width="140" height="104" as="geometry">
+            <mxRectangle x="1740" y="-740" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-91" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cNv1dug2NwwHb0u0l6bS-90">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-92" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cNv1dug2NwwHb0u0l6bS-90">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-93" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cNv1dug2NwwHb0u0l6bS-90">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-97" value="&lt;div&gt;Requirement 4: Spatial plan&amp;nbsp;&lt;/div&gt;&lt;div&gt;information compliant with&amp;nbsp;&lt;/div&gt;&lt;div&gt;this part of LADM shall&lt;/div&gt;&lt;div&gt;organize&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;plan units&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(plan zones) in plan block,&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2140" y="-1130" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNv1dug2NwwHb0u0l6bS-98" value="&lt;div&gt;Requirement 5: Effective land&amp;nbsp;&lt;/div&gt;&lt;div&gt;administration&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;systems&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shall provide&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;extensible code list for the&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;spatial (sub)functions of plan units&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and plan blocks according to&amp;nbsp;&lt;/div&gt;&lt;div&gt;national/local regulations.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2110" y="-780" width="290" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
