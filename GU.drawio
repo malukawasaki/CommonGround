@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
   <diagram name="Page-1" id="c7QUhTzQLRqDc5J3jLas">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-1" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Soil and Soil Investigation&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;(Bodem)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="104" y="117" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-2" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Environment (Milieukwaliteit)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="105" y="175" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-3" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Groundwater Monitoring&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="105" y="232" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-4" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Groundwater Use&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="104" y="290" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-5" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Mining Act&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;(Mijnbouwwet)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="106" y="348" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-6" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Models&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="106" y="406" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-7" value="Registration Domains (6)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="80" width="256" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-8" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;sans-serif&quot;&gt;Registration Object&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="419" y="232" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-9" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn0KWEWW0G5z6OLqz2ZU-8" target="mn0KWEWW0G5z6OLqz2ZU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="287" as="sourcePoint" />
+            <mxPoint x="589" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-10" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="mn0KWEWW0G5z6OLqz2ZU-9">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mn0KWEWW0G5z6OLqz2ZU-11" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="mn0KWEWW0G5z6OLqz2ZU-9">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
