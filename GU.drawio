@@ -28,19 +28,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mn0KWEWW0G5z6OLqz2ZU-8" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;sans-serif&quot;&gt;(GUF/GPD) Registration Object&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
-          <mxGeometry x="658" y="232" width="187" height="48" as="geometry" />
+          <mxGeometry x="697" y="215" width="187" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mn0KWEWW0G5z6OLqz2ZU-12" value="Unit in the data structure.&amp;nbsp;&lt;div&gt;Basic building block&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="668" y="152" width="159" height="80" as="geometry" />
+          <mxGeometry x="707" y="135" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QMmzeugEDSKfIT0TyAf5-1" value="Note: INSPIRe prefered CS:&lt;div&gt;- Horizontal: ETRS89 (Europe)&lt;/div&gt;&lt;div&gt;- Vertical: LAT (Low. Astron. Tide)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="658" y="299" width="201" height="107" as="geometry" />
+          <mxGeometry x="697" y="282" width="201" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="QMmzeugEDSKfIT0TyAf5-2" value="Ground Water Use System (GUF)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="395" y="237" width="141" height="60" as="geometry" />
+        <mxCell id="QMmzeugEDSKfIT0TyAf5-2" value="Groundwater Usage Facility (GUF)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="399" y="241.25" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QMmzeugEDSKfIT0TyAf5-3" value="Groundwater Production Dossier (GPD)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="395" y="322.5" width="141" height="60" as="geometry" />
+          <mxGeometry x="399" y="326.75" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QMmzeugEDSKfIT0TyAf5-10" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn0KWEWW0G5z6OLqz2ZU-4" target="QMmzeugEDSKfIT0TyAf5-2">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
