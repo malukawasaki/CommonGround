@@ -67,7 +67,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QMmzeugEDSKfIT0TyAf5-18" value="&lt;span style=&quot;font-family: sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Data recorded at the time of the granting of the permit, the design of the system and the system, in practice. Components of both the design as well as of the realized system have a geometry.&lt;/font&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="362" y="138" width="236" height="94" as="geometry" />
+          <mxGeometry x="364.5" y="140" width="236" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="QMmzeugEDSKfIT0TyAf5-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Information submitted to the competent authority over time.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Does not itself have vertical position and location. Does have the relationship with the groundwater use system where the production figures are relate to.&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="352" y="392" width="268" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
